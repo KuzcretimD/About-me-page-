@@ -1,3 +1,3 @@
-# About-me-page
-This page features some information about me.
-Simply open the index.html
+# About me
+so this is the about me page check it if u want 
+
